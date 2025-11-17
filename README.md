@@ -2,6 +2,7 @@
 
 Учебный проект по разработке CRM на основе фреймворка Django.
 За основу взято видео https://www.youtube.com/watch?v=zNyURLG9LIs&list=WL&index=22&t=75s.
+Репозиторий проекта из указанного видео: https://github.com/codingforentrepreneurs/Django-CRM/tree/main
 
 Разработка в операционной системе windows 11.
 Используется:
