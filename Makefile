@@ -12,3 +12,6 @@ mig:
 
 csu:
 	uv run src/manage.py createsuperuser
+
+sa:
+	@powershell -Command "Write-Host -NoNewline 'Enter app name: '; $$app_name = Read-Host; Push-Location src; uv run manage.py startapp $$app_name; Pop-Location"
